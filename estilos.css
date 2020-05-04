@@ -1,0 +1,22 @@
+﻿.form-group {
+    margin-bottom: 20px;
+}
+
+form {
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    float: right;
+    text-align: center;
+}
+
+label {
+    font-size: 18px;
+}
+
+.titulo {
+    color: brown;
+}

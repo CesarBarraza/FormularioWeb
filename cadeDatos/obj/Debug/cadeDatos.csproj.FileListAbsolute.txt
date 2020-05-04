@@ -1,0 +1,17 @@
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\bin\Debug\cadeDatos.dll
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\bin\Debug\cadeDatos.pdb
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\bin\Debug\capaDominio.dll
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\bin\Debug\capaDominio.pdb
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\obj\Debug\cadeDatos.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\obj\Debug\cadeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\obj\Debug\cadeDatos.csproj.CopyComplete
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\obj\Debug\cadeDatos.dll
+C:\Users\Cesar\source\repos\capaPresentacion\cadeDatos\obj\Debug\cadeDatos.pdb
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\bin\Debug\cadeDatos.dll
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\bin\Debug\cadeDatos.pdb
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\bin\Debug\capaDominio.dll
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\bin\Debug\capaDominio.pdb
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\obj\Debug\cadeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\obj\Debug\cadeDatos.csproj.CopyComplete
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\obj\Debug\cadeDatos.dll
+C:\Users\Cesar\source\repos\FormualarioWeb\cadeDatos\obj\Debug\cadeDatos.pdb

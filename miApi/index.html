@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="estilos.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-2.2.4.js"
+            integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+            crossorigin="anonymous"></script>
+    <script src="js/main.js"></script>
+
+    <meta charset="utf-8" />
+    <title>Productos</title>
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="contenedor">
+                <form>
+                    <h2 class="titulo">Formulario</h2>
+                    <div class="form-group">
+                        <label for="">Nombre:</label>
+                        <input type="text" id="nombre" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="">Descripción:</label>
+                        <input type="text" id="desc" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="">Precio:</label>
+                        <input type="text" id="precio" placeholder="">
+                    </div>
+                    <div class="form-group">
+                        <label for="">Stock:</label>
+                        <input type="text" id="stock" placeholder="">
+                    </div>
+                    <div>
+                        <button onclick="guardar()">Guardar</button>
+                        <button onclick="eliminar()">Eliminar</button>
+                        <button onclick="limpiarForm()">Cancelar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="contenedor-tabla">
+                <table id="tbl_producto" class="table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>IDProducto</th>
+                            <th>Nombre</th>
+                            <th>Descripción</th>
+                            <th>Precio</th>
+                            <th>Stock</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tabla">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
